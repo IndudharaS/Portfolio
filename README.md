@@ -28,7 +28,7 @@ This site is designed to provide a glimpse into who I am, what I’ve accomplish
 - **Framework**: Next.js (React-based)  
 - **Styling**: Tailwind CSS (or specify your styling approach)  
 - **Hosting**: Vercel – for super-fast and scalable deployments  
-- **Other Tools**: (Add any libraries, APIs, or technologies you use)
+- **Other Tools**: Resend for mail automation
 
 ---
 
